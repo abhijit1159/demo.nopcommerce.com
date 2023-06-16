@@ -6,5 +6,6 @@ public class New {
 
 
         System.out.println("hello world");
+        System.out.println("hello from ide");
     }
 }
